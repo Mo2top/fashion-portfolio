@@ -1,0 +1,852 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "rendering": {
+    "engine": "PyMuPDF 1.26.6",
+    "format": "lossless WebP",
+    "widths": [
+      960,
+      1920,
+      3840
+    ],
+    "colorSpace": "sRGB",
+    "annotations": true
+  },
+  "sources": {
+    "en": [
+      {
+        "filename": "Portfolio_10MB.pdf",
+        "sha256": "ce689e4686796a69da91f2bf2ef7df0e913c3eeef6c105049cfa1717bb3e71f2",
+        "pageCount": 13
+      }
+    ],
+    "zh": [
+      {
+        "filename": "作品集 1.pdf",
+        "sha256": "2e2c5b71a23e21b5a9407c79838d63ffa52d8e6462e7cdfff563b982f45770a3",
+        "pageCount": 13
+      }
+    ]
+  },
+  "pages": [
+    {
+      "number": 1,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-01-c89cb23306d6f26a-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 202002,
+            "sha256": "c89cb23306d6f26a618fdbf42d4e40c60d72dbdeac428c370bedc095aeb1b4de"
+          },
+          {
+            "src": "/portfolio/en/page-01-c422b3785b22e2fa-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 559520,
+            "sha256": "c422b3785b22e2faa0af671efca17bb981d2b5f74eed0cfeb02a8dd74bf28f8b"
+          },
+          {
+            "src": "/portfolio/en/page-01-78505c7e82e19ba9-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1331496,
+            "sha256": "78505c7e82e19ba946a80bccb6afe5bea8aeb1403f6118ed6105bf38eda48623"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-01-f39d2111b188717c-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 205296,
+            "sha256": "f39d2111b188717c2a19f80f82bfa0c7aa04284389c50f43cc6fe3b2f8d593ec"
+          },
+          {
+            "src": "/portfolio/zh/page-01-bacbee0ff465f034-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 566874,
+            "sha256": "bacbee0ff465f034cebd12dd7c9562c10b67cbfe4b759c84844379d240358eea"
+          },
+          {
+            "src": "/portfolio/zh/page-01-7ece24dd391566b4-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1346954,
+            "sha256": "7ece24dd391566b4515349e848448fc9ac1df1d96bcebfef3e2b55318414dc3c"
+          }
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-02-3efcca31ab171971-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 555252,
+            "sha256": "3efcca31ab171971945cc91b1bfba313ef585f25a5da1257f4c67e2a48f0b6c3"
+          },
+          {
+            "src": "/portfolio/en/page-02-50ef20c0881e790b-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 1919702,
+            "sha256": "50ef20c0881e790b245d116fbefd30134a71d94fd3f681cdb0c41f451b458660"
+          },
+          {
+            "src": "/portfolio/en/page-02-47d09027bb024e62-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 6108136,
+            "sha256": "47d09027bb024e62504be39b78aadeb50bd91262490665caabf124a18d8ae8df"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-02-f0c752e44bb776a8-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 562678,
+            "sha256": "f0c752e44bb776a8d3a961207c9e5cc345ee49fa11859a91efdd24353ea69533"
+          },
+          {
+            "src": "/portfolio/zh/page-02-c0dd244fb0b226f5-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 1931370,
+            "sha256": "c0dd244fb0b226f5fd671186f99e49e93dc2f14f0d69c9cff8c1f926aad0f60d"
+          },
+          {
+            "src": "/portfolio/zh/page-02-aa7c6626f1cbd151-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 6100554,
+            "sha256": "aa7c6626f1cbd1511367598f14d49a5abe3c5bbf310e483217c3d0c31bee6092"
+          }
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-03-f4e8d018c3281f9c-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 209176,
+            "sha256": "f4e8d018c3281f9c5195247f7c1ed2ff8c58c7e330842bca2773840f1b91f3bd"
+          },
+          {
+            "src": "/portfolio/en/page-03-94d6a5d043730bb1-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 556976,
+            "sha256": "94d6a5d043730bb112a7486a37eb95fba933d94fc3ec93d6ed89deb9aab10449"
+          },
+          {
+            "src": "/portfolio/en/page-03-bc9f0d355ac1d682-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 636930,
+            "sha256": "bc9f0d355ac1d6823a61093159e9ba673695370b768e5b9576e5ea056c7aa5f6"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-03-5e0b95e85b8f1d8f-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 229392,
+            "sha256": "5e0b95e85b8f1d8f94555420b2cfd4ed222d9e6772c5a0b3991e6465165e9930"
+          },
+          {
+            "src": "/portfolio/zh/page-03-0b91cf5f42641dc3-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 595538,
+            "sha256": "0b91cf5f42641dc37f9d57884242d56b8e30a7025487ae55640a4f4d7f2280ec"
+          },
+          {
+            "src": "/portfolio/zh/page-03-fabb38a7160061b8-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 731056,
+            "sha256": "fabb38a7160061b8fcc995a61e3532480de664255cc07e09b3a04250cd647df3"
+          }
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-04-e58b9cd1abf104cc-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 173240,
+            "sha256": "e58b9cd1abf104cc5d43664542a520619d2c85b0c27373847b71d872ed97c200"
+          },
+          {
+            "src": "/portfolio/en/page-04-fdf2ad486585ee11-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 504422,
+            "sha256": "fdf2ad486585ee11e807d433ac702bc152966cf5ba60fffe9e0009b60d216f04"
+          },
+          {
+            "src": "/portfolio/en/page-04-cd3fad52612718d8-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1316268,
+            "sha256": "cd3fad52612718d847c5d8d77e35bce81f1dc4941d1f849755d4420f47556625"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-04-d55905164d240f95-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 199648,
+            "sha256": "d55905164d240f95711a19b2bed308ddac001254726432d45108e611c7b86e44"
+          },
+          {
+            "src": "/portfolio/zh/page-04-d7ccaa42cba28b00-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 562768,
+            "sha256": "d7ccaa42cba28b00ede6fc9fa57b9f4d789b3452c96756293a054e2362c87cbb"
+          },
+          {
+            "src": "/portfolio/zh/page-04-e4a39ebb10076e55-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1465372,
+            "sha256": "e4a39ebb10076e55dda4b857f664e7bfaa9b7d47b21a4d926d27c5f02fe23751"
+          }
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-05-b94e6be0adb6e993-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 243956,
+            "sha256": "b94e6be0adb6e993414d1d3d08ca9b91a57782d1b2bfdea9fc2508e840c9674f"
+          },
+          {
+            "src": "/portfolio/en/page-05-348f49b9af7a7fab-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 861306,
+            "sha256": "348f49b9af7a7fab6ee99467c36c164ad0a8da3e9d9d462428cbee207a40a095"
+          },
+          {
+            "src": "/portfolio/en/page-05-5f7949269235f548-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 2726088,
+            "sha256": "5f7949269235f548d2eec98546b11a1b1927655be1b6f90a61478bdfb0eace85"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-05-176d3b162d7264ba-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 253016,
+            "sha256": "176d3b162d7264ba0b53b67a79e6bb1a8a2cd2576f0ef4dc8334a9e88994ad55"
+          },
+          {
+            "src": "/portfolio/zh/page-05-cc30a3b5f9d66d09-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 877116,
+            "sha256": "cc30a3b5f9d66d09fa30ab5ec0523dfdd7b3dbcf12645a6783383ab1d10d7f76"
+          },
+          {
+            "src": "/portfolio/zh/page-05-f35892926377950b-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 2740656,
+            "sha256": "f35892926377950bd591b365a5f17426b75afd37938d432855e9c96c88d267cd"
+          }
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-06-7225f6bac0621022-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 193322,
+            "sha256": "7225f6bac0621022937d098d2be60acb62ef90ef10f2aa7b257cb230274f78fd"
+          },
+          {
+            "src": "/portfolio/en/page-06-bd6cb07623ea220e-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 597344,
+            "sha256": "bd6cb07623ea220e706ea0b0cfadff7ef961ec7a91c5ad3d5ef2a933f2f64ec6"
+          },
+          {
+            "src": "/portfolio/en/page-06-ec6c128e348ec0bf-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1486330,
+            "sha256": "ec6c128e348ec0bf5b8fde7adecd8da01c8bc6a94f07818c4885f425291dbb35"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-06-9da56a328bb6ab4d-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 189938,
+            "sha256": "9da56a328bb6ab4d0febc52638f8bc04cbd670197c3801cfc55e5da37f2fb0bc"
+          },
+          {
+            "src": "/portfolio/zh/page-06-1bb630399f5898c5-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 588068,
+            "sha256": "1bb630399f5898c584d3e2ea911d30487e0de70233e8ba864049d57a3021ed6c"
+          },
+          {
+            "src": "/portfolio/zh/page-06-3004aaa46a202ad4-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1467502,
+            "sha256": "3004aaa46a202ad4ee698fbdcbb870f7a95ab10100844ea127a3d69019b85543"
+          }
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-07-865a923a249ca3f5-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 132364,
+            "sha256": "865a923a249ca3f5657f938e88a1da7714483516bdd87ebe6382a10d201ae3b1"
+          },
+          {
+            "src": "/portfolio/en/page-07-ab98e83d3742154b-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 410722,
+            "sha256": "ab98e83d3742154b7523f523abee561c06d9f77f8d5da102b76d6e33ebdf91d6"
+          },
+          {
+            "src": "/portfolio/en/page-07-3799df7d3112c7b9-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1191962,
+            "sha256": "3799df7d3112c7b93ae7e78740551bba20a67e80f34580318fac5d85485ee2b9"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-07-804252bf9a9df260-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 148498,
+            "sha256": "804252bf9a9df260f28f5cafecf2da3ab35c61981c0121dd6256d25b1152504e"
+          },
+          {
+            "src": "/portfolio/zh/page-07-dd6caf74a1c974d2-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 448858,
+            "sha256": "dd6caf74a1c974d2f2ebd3e8ff5ac6c7bf572854d553ca0e747b583c07a04cd7"
+          },
+          {
+            "src": "/portfolio/zh/page-07-64418da5755e3f6c-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1285908,
+            "sha256": "64418da5755e3f6c6ce6ecc921c5a89ef8adb31525dc5360ea8e6a2809628d48"
+          }
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-08-2db0d03bd479f921-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 146980,
+            "sha256": "2db0d03bd479f9219c89470630fb663a2eaef5db9ae71f5add140ec94d91ffc3"
+          },
+          {
+            "src": "/portfolio/en/page-08-291545476b7809e1-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 478598,
+            "sha256": "291545476b7809e1b1eae17d6c1f620d737a09d1cf9a0fac502df2d215f71ddf"
+          },
+          {
+            "src": "/portfolio/en/page-08-011a7f21ec44cc15-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1441750,
+            "sha256": "011a7f21ec44cc15c47046339b2fac0df65827dd59af228e47115ec592293342"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-08-a3295a984267b390-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 158694,
+            "sha256": "a3295a984267b390a2ea92575fdfacb9f0d3af9df64c09cdd1e5f37fd6a73412"
+          },
+          {
+            "src": "/portfolio/zh/page-08-5a94fd7fb0025035-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 490720,
+            "sha256": "5a94fd7fb0025035a7447af6efe8c3ace9a6fd05eb18ca9ff2453e42d3d0c918"
+          },
+          {
+            "src": "/portfolio/zh/page-08-f1deb2f8b4ae6582-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1473928,
+            "sha256": "f1deb2f8b4ae65828292a512c3e4ae0aaa9108860afc2f82f9eb9202ccbcb8e0"
+          }
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-09-d3100c27d06a7279-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 239488,
+            "sha256": "d3100c27d06a72790f148e0013dba2f99321510a423f93a580339e69252c3793"
+          },
+          {
+            "src": "/portfolio/en/page-09-e9418a8cd5280f42-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 786418,
+            "sha256": "e9418a8cd5280f42361528377a28e36fba704ff31c8c4bf34b8b917290f3d52d"
+          },
+          {
+            "src": "/portfolio/en/page-09-dc09472de28d6c9f-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 2373656,
+            "sha256": "dc09472de28d6c9fcc4538e5b453a8e4d2e7a43df3072d9737a6652589dcccc9"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-09-5420801ff98b8f66-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 250432,
+            "sha256": "5420801ff98b8f665fc9d2d1dce0ede87049b1e6ecbb7e5dd8546e2fa613afd2"
+          },
+          {
+            "src": "/portfolio/zh/page-09-77b0f7fde03a7176-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 815422,
+            "sha256": "77b0f7fde03a71769c6a04d3b9a31af4b39d360ffe4b672c0a2dbee533105bb4"
+          },
+          {
+            "src": "/portfolio/zh/page-09-c89457c90d0efd6c-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 2452372,
+            "sha256": "c89457c90d0efd6c0b45aa41d1aa6830987583839d202c33ef5899585d879ace"
+          }
+        ]
+      }
+    },
+    {
+      "number": 10,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-10-1000327ff617ea5f-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 157380,
+            "sha256": "1000327ff617ea5fe9ae5ff59baba2812bfa9f0f57652a0f27979a834acb5538"
+          },
+          {
+            "src": "/portfolio/en/page-10-3db801382eedaa6d-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 539790,
+            "sha256": "3db801382eedaa6dccbbbbb2a4a851d69f403caf62ce0dad3690da9ea4132cf9"
+          },
+          {
+            "src": "/portfolio/en/page-10-21930cc0d1508671-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1354508,
+            "sha256": "21930cc0d1508671459af3220758a276a2fd07fa0d89a3c0cde0119828d08c8c"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-10-9f52706156d4c52e-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 170828,
+            "sha256": "9f52706156d4c52e82b121a7e6932c93e2cebc54ed601019f9ad90fc27588f99"
+          },
+          {
+            "src": "/portfolio/zh/page-10-e8606f1f17895aa3-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 555934,
+            "sha256": "e8606f1f17895aa3cd1b93d02a4aac87c0609d674fffe7d92e357bea06946e86"
+          },
+          {
+            "src": "/portfolio/zh/page-10-5878b8792ac52886-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1379074,
+            "sha256": "5878b8792ac528863a6e65f7e21772b6b0808b995eab0010df8ce7f10ec3d10c"
+          }
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-11-0206fcc5f9f8d55f-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 158508,
+            "sha256": "0206fcc5f9f8d55fa55cf580027f64da0ae60f2183bff9f6404181caa59a2625"
+          },
+          {
+            "src": "/portfolio/en/page-11-7cc1ae81aaa7fe7c-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 443556,
+            "sha256": "7cc1ae81aaa7fe7cdb3612e0beb8baf4d41ef943d445e1da90fa6a5a4bad708a"
+          },
+          {
+            "src": "/portfolio/en/page-11-8257221c71bedff6-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1081048,
+            "sha256": "8257221c71bedff68a46d15a4b7ac69d40e4963c590d74bdd94d90fd88a919d0"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-11-3806c522a93091b0-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 181416,
+            "sha256": "3806c522a93091b004213aa114071e856218f9778905d5bc49e6fc2fb9790bba"
+          },
+          {
+            "src": "/portfolio/zh/page-11-665ce4c3b9ba5100-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 497790,
+            "sha256": "665ce4c3b9ba51002af7cec05cb9e09496e7c7430101077797ea3838c689203b"
+          },
+          {
+            "src": "/portfolio/zh/page-11-a08fc5e9576f97fc-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1241306,
+            "sha256": "a08fc5e9576f97fc835826cf8c345334cafdc164bf7b577f2e85daa4869719bb"
+          }
+        ]
+      }
+    },
+    {
+      "number": 12,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-12-1d409cd2984d9852-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 187384,
+            "sha256": "1d409cd2984d985227bcca1f9255d94c76feea32b79a328311e16fc6c8c9cad3"
+          },
+          {
+            "src": "/portfolio/en/page-12-0270d1b2000e1fc9-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 598754,
+            "sha256": "0270d1b2000e1fc98e657fee68c0f7e9a1865273da8bdc0766ccedfb4574bc2e"
+          },
+          {
+            "src": "/portfolio/en/page-12-51836cd6d2254251-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1545406,
+            "sha256": "51836cd6d2254251e6b2e4bfc376f0d5820d7587956c9d9403bca8db176378b5"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-12-0dbe54c15b69e01e-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 194382,
+            "sha256": "0dbe54c15b69e01e668a5aa67f3d2195ab826553cbfef91ea324aa3f670516d2"
+          },
+          {
+            "src": "/portfolio/zh/page-12-9f226a8eb6835a14-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 613992,
+            "sha256": "9f226a8eb6835a144de6bb88ac790bac81036198af4f6bc48a4aa504bd8cb094"
+          },
+          {
+            "src": "/portfolio/zh/page-12-eb52f4b7c2eeb6a6-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 1570920,
+            "sha256": "eb52f4b7c2eeb6a63709fdced689b833494e85608b79f431b432cb98d27c3334"
+          }
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "width": 3840,
+      "height": 2160,
+      "sourceDimensions": {
+        "en": {
+          "width": 1440.0,
+          "height": 810.0
+        },
+        "zh": {
+          "width": 1440.0,
+          "height": 810.0
+        }
+      },
+      "images": {
+        "en": [
+          {
+            "src": "/portfolio/en/page-13-bc95ee059668b16f-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 100856,
+            "sha256": "bc95ee059668b16f8d55d432abab37dd2ee0a8b93cbc9c02267bb61eb35107be"
+          },
+          {
+            "src": "/portfolio/en/page-13-56179f21a020f132-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 276242,
+            "sha256": "56179f21a020f1320dc1e16bab83ba1b31857981cd9b83e7add0a0a5a68917e7"
+          },
+          {
+            "src": "/portfolio/en/page-13-0297ee4bcc4f0757-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 685208,
+            "sha256": "0297ee4bcc4f07577155b2ea24674f4f618b4fed3defee170e26f692043ff8dd"
+          }
+        ],
+        "zh": [
+          {
+            "src": "/portfolio/zh/page-13-bc95ee059668b16f-960.webp",
+            "width": 960,
+            "height": 540,
+            "bytes": 100856,
+            "sha256": "bc95ee059668b16f8d55d432abab37dd2ee0a8b93cbc9c02267bb61eb35107be"
+          },
+          {
+            "src": "/portfolio/zh/page-13-56179f21a020f132-1920.webp",
+            "width": 1920,
+            "height": 1080,
+            "bytes": 276242,
+            "sha256": "56179f21a020f1320dc1e16bab83ba1b31857981cd9b83e7add0a0a5a68917e7"
+          },
+          {
+            "src": "/portfolio/zh/page-13-0297ee4bcc4f0757-3840.webp",
+            "width": 3840,
+            "height": 2160,
+            "bytes": 685208,
+            "sha256": "0297ee4bcc4f07577155b2ea24674f4f618b4fed3defee170e26f692043ff8dd"
+          }
+        ]
+      }
+    }
+  ]
+}
