@@ -12,7 +12,10 @@
     "preview": "vite preview",
     "import:pdf": "python3 scripts/render_portfolio.py",
     "verify:assets": "node scripts/validate-portfolio.mjs",
-    "prebuild": "npm run verify:assets"
+    "prebuild": "npm run verify:assets && npm run verify:motion",
+    "import:motion": "python3 scripts/build_motion_layers.py",
+    "verify:motion": "node scripts/validate-motion.mjs",
+    "test:browser": "python3 scripts/test_portfolio.py"
   },
   "dependencies": {
     "react": "^19.3.0",
